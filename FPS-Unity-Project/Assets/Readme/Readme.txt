@@ -1,0 +1,1 @@
+Documentation: https://kb.tabletopsimulator.com/custom-content/custom-assetbundle/
